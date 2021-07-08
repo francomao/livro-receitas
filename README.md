@@ -1,3 +1,4 @@
 # livro-receitas
 Meu livro de receitas.
-Autor: Franco Oliveira.
+##Autor : Franco Oliveira.
+##Cidade: Manaus.
